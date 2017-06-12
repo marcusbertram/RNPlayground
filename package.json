@@ -1,0 +1,32 @@
+{
+  "name": "RNPlayground",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.58.0",
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.44.0",
+    "react-native-camera": "^0.6.0",
+    "react-native-facebook-login": "^1.5.0",
+    "react-native-fs": "^2.3.2",
+    "react-native-loading-spinner-overlay": "^0.5.0",
+    "react-native-s3": "0.0.26",
+    "react-native-simple-store": "^1.2.0",
+    "react-native-sound": "^0.10.1",
+    "react-native-vector-icons": "^4.1.1",
+    "react-navigation": "^1.0.0-beta.11"
+  },
+  "devDependencies": {
+    "babel-jest": "20.0.3",
+    "babel-preset-react-native": "1.9.2",
+    "jest": "20.0.4",
+    "react-test-renderer": "16.0.0-alpha.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

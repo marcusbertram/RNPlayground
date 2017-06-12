@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RNPlayground</string>
+    <string name="fb_app_id">FBAPPID</string>
+    <string name="fb_login_protocol_scheme">fbFBAPPID</string>
+</resources>
